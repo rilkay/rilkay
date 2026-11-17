@@ -14,6 +14,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="32.932%" alt=""></picture><a href="https://t.me/rilkay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://open.spotify.com/user/314x373xpzqmcwdte2zgazpjh6r4?si=f3ef8a2a95824ba4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.011%" alt="spotify"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="32.932%" alt=""></picture>
 
-<a href="https://metawka.github.io/expressive-profile/?from=r1lkay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+<a href="https://metawka.github.io/expressive-profile/?from=rilkay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" </picture></a>
 
 </div>
