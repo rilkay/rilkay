@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "login": "r1lkay",
+  "login": "rilkay",
   "seed": "#223D35",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
@@ -18,12 +18,14 @@
     "buttons"
   ],
   "hidden": [
-    "buttons"
+    "buttons",
+    "about",
+    "projects"
   ],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "rilkay",
-    "subtitle": "Just beginner dev. ",
+    "subtitle": "Just beginner dev.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -33,7 +35,7 @@
       },
       {
         "icon": "format_paint",
-        "label": "Figma · ACC"
+        "label": "Figma  · ACC"
       }
     ]
   },
@@ -41,16 +43,8 @@
     "title": "About me",
     "items": [
       {
-        "icon": "person",
-        "label": "Developer and somewhat a ui designer"
-      },
-      {
         "icon": "code",
         "label": "Mostly backend"
-      },
-      {
-        "icon": "sports_esports",
-        "label": "Gamer "
       }
     ]
   },
@@ -99,20 +93,8 @@
   },
   "projects": {
     "source": "pinned",
-    "repos": [
-      "pixel-garden",
-      "tiny-weather",
-      "echo-bot",
-      "dotfiles"
-    ],
-    "overrides": {
-      "pixel-garden": {
-        "shape": "cookie"
-      },
-      "dotfiles": {
-        "shape": "soft"
-      }
-    },
+    "repos": [],
+    "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
   },
@@ -141,21 +123,26 @@
       },
       {
         "icon": "brand:spotify",
-        "url": "https://open.spotify.com/user/314x373xpzqmcwdte2zgazpjh6r4?si=f3ef8a2a95824ba4"
+        "url": "https://open.spotify.com/user/314x373xpzqmcwdte2zgazpjh6r4"
       }
     ],
     "variant": "chip",
     "fill": "tonal",
-    "card": true,
-    "shape": "soft"
+    "card": true
   },
   "buttons": {
     "items": [
       {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
         "icon": "book_2",
         "label": "All repositories",
         "url": "",
-        "style": "filled"
+        "style": "tonal"
       }
     ]
   }
