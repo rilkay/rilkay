@@ -1,8 +1,8 @@
 {
- "key": "f051316",
- "stars": 0,
- "contributions": 31,
- "repos": 4,
+ "key": "d269d285",
+ "stars": 3,
+ "contributions": 40,
+ "repos": 5,
  "followers": 0,
  "languages": [
   [
@@ -97,56 +97,101 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 17,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
     "today": true
    },
-   null,
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 0,
-  "longest": 2
+  "current": 3,
+  "longest": 3
  },
- "pins": [],
- "all": [
+ "pins": [
   {
-   "name": "Translate-Bar",
-   "url": "https://github.com/r1lkay/Translate-Bar",
-   "text": "Minimalist menu bar translator for macOS — fast, private and free.",
-   "fork": true,
-   "stars": 0,
-   "language": "Python",
+   "name": "rAfk-Chat",
+   "url": "https://github.com/rilkay/rAfk-Chat",
+   "text": "Broadcasts that the played is AFK to the chat",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
    "topics": []
   },
   {
-   "name": "r1lkay",
-   "url": "https://github.com/r1lkay/r1lkay",
+   "name": "rWarps",
+   "url": "https://github.com/rilkay/rWarps",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Translate-Bar",
+   "url": "https://github.com/b0ruch/Translate-Bar",
+   "text": "Minimalist menu bar translator for macOS — fast, private and free.",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "rTimeConf",
+   "url": "https://github.com/rilkay/rTimeConf",
+   "text": "",
+   "fork": false,
+   "stars": 1,
    "language": null,
    "topics": []
   },
   {
-   "name": "rilkay-warps",
-   "url": "https://github.com/r1lkay/rilkay-warps",
+   "name": "Translate-Bar",
+   "url": "https://github.com/rilkay/Translate-Bar",
+   "text": "Minimalist menu bar translator for macOS — fast, private and free.",
+   "fork": true,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "rWarps",
+   "url": "https://github.com/rilkay/rWarps",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Java",
    "topics": []
   },
   {
-   "name": "rilkay-afk-chat",
-   "url": "https://github.com/r1lkay/rilkay-afk-chat",
+   "name": "rAfk-Chat",
+   "url": "https://github.com/rilkay/rAfk-Chat",
    "text": "Broadcasts that the played is AFK to the chat",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "rilkay",
+   "url": "https://github.com/rilkay/rilkay",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
    "topics": []
   }
  ]
