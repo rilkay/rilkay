@@ -1,5 +1,5 @@
 {
- "key": "ade174c3",
+ "key": "375994a4",
  "stars": 3,
  "contributions": 46,
  "repos": 5,
@@ -150,13 +150,22 @@
    "stars": 3,
    "language": "Python",
    "topics": []
+  },
+  {
+   "name": "rTimeConf",
+   "url": "https://github.com/rilkay/rTimeConf",
+   "text": "Simple Minecraft plugin for /ptime and /pweather with no extra bloat.",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
   }
  ],
  "all": [
   {
    "name": "rTimeConf",
    "url": "https://github.com/rilkay/rTimeConf",
-   "text": "",
+   "text": "Simple Minecraft plugin for /ptime and /pweather with no extra bloat.",
    "fork": false,
    "stars": 1,
    "language": "Java",
