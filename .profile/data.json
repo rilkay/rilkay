@@ -1,7 +1,7 @@
 {
- "key": "d1bfb9ed",
+ "key": "ade174c3",
  "stars": 3,
- "contributions": 44,
+ "contributions": 46,
  "repos": 5,
  "followers": 0,
  "languages": [
@@ -109,15 +109,19 @@
    {
     "c": 5,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 3,
-  "longest": 3
+  "current": 4,
+  "longest": 4
  },
  "pins": [
   {
